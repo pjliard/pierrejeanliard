@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments for Pierre-Jean Liard</title>
-	<atom:link href="http://pierrejeanliard.wordpress.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://pierrejeanliard.wordpress.com/</link>
+	<atom:link href="http://pjliard.github.io/pierrejeanliard/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://pjliard.github.io/pierrejeanliard/</link>
 	<description></description>
 	<lastBuildDate>Wed, 07 Nov 2018 10:54:28 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -16,10 +16,10 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Comment on Hello world! by A WordPress Commenter</title>
-		<link>http://pierrejeanliard.wordpress.com/hello-world/#comment-1</link>
+		<link>http://pjliard.github.io/pierrejeanliard/hello-world/#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 07 Nov 2018 10:54:28 +0000</pubDate>
-		<guid isPermaLink="false">http://pierrejeanliard.wordpress.com/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://pjliard.github.io/pierrejeanliard/?p=1#comment-1</guid>
 		<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
