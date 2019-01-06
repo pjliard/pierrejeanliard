@@ -4,5 +4,5 @@
 <tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Error: Class 'PHPExcel_Settings' not found in /app/public/wp-content/plugins/woo-order-export-lite/classes/PHPExcel/Writer/PDF/tcPDF.php on line <i>4</i></th></tr>
 <tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
 <tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
-<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0018</td><td bgcolor='#eeeeec' align='right'>359912</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/plugins/woo-order-export-lite/classes/PHPExcel/Writer/PDF/tcPDF.php' bgcolor='#eeeeec'>.../tcPDF.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0019</td><td bgcolor='#eeeeec' align='right'>359912</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/plugins/woo-order-export-lite/classes/PHPExcel/Writer/PDF/tcPDF.php' bgcolor='#eeeeec'>.../tcPDF.php<b>:</b>0</td></tr>
 </table></font>

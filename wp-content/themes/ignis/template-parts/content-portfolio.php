@@ -3,6 +3,6 @@
 <tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Error: Call to undefined function the_ID() in /app/public/wp-content/themes/ignis/template-parts/content-portfolio.php on line <i>9</i></th></tr>
 <tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
 <tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
-<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0018</td><td bgcolor='#eeeeec' align='right'>359384</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/themes/ignis/template-parts/content-portfolio.php' bgcolor='#eeeeec'>.../content-portfolio.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0012</td><td bgcolor='#eeeeec' align='right'>359384</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/themes/ignis/template-parts/content-portfolio.php' bgcolor='#eeeeec'>.../content-portfolio.php<b>:</b>0</td></tr>
 </table></font>
 </article>
