@@ -7,7 +7,7 @@
 <tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: post in /app/public/wp-content/plugins/wp-all-export/src/Scheduling/views/ManualScheduling.php on line <i>5</i></th></tr>
 <tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
 <tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
-<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0016</td><td bgcolor='#eeeeec' align='right'>359520</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/plugins/wp-all-export/src/Scheduling/views/ManualScheduling.php' bgcolor='#eeeeec'>.../ManualScheduling.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0021</td><td bgcolor='#eeeeec' align='right'>359520</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/plugins/wp-all-export/src/Scheduling/views/ManualScheduling.php' bgcolor='#eeeeec'>.../ManualScheduling.php<b>:</b>0</td></tr>
 </table></font>
 />
         <h4 style="margin-top: 0;display: inline-block;"><br />
@@ -16,5 +16,5 @@
 <tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Error: Call to undefined function _e() in /app/public/wp-content/plugins/wp-all-export/src/Scheduling/views/ManualScheduling.php on line <i>6</i></th></tr>
 <tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
 <tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
-<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0016</td><td bgcolor='#eeeeec' align='right'>359520</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/plugins/wp-all-export/src/Scheduling/views/ManualScheduling.php' bgcolor='#eeeeec'>.../ManualScheduling.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0021</td><td bgcolor='#eeeeec' align='right'>359520</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/app/public/wp-content/plugins/wp-all-export/src/Scheduling/views/ManualScheduling.php' bgcolor='#eeeeec'>.../ManualScheduling.php<b>:</b>0</td></tr>
 </table></font>
