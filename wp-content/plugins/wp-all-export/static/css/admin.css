@@ -441,7 +441,7 @@
 		display: none;
 	}
 	.wpallexport-plugin .wpallexport-import-to-format.selected span.wpallexport-import-to-arrow{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/bottom_arrow.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/bottom_arrow.png') no-repeat;
 		position: absolute;
 		bottom: -12px;
 		left: 48%;
@@ -538,7 +538,7 @@
 	width: 16px;
 	height: 16px;
 	background-repeat: no-repeat;
-	background-image: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/help.png");
+	background-image: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/help.png");
 	vertical-align: middle;
 	margin-left: 5px;
 	position: relative;
@@ -549,7 +549,7 @@
 	width: 8em;
 }
 .wpallexport-plugin button.ui-datepicker-trigger {
-	background-image: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/date-picker.gif");
+	background-image: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/date-picker.gif");
 	background-repeat: no-repeat;
 	cursor: pointer;
 	border: none;
@@ -568,19 +568,19 @@
 	background-position: center;
 }
 .wpallexport-plugin .preload {
-	background-image: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/loading-step-2.gif");
+	background-image: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/loading-step-2.gif");
 	background-repeat: no-repeat;	
 	background-position: 50% 10px;
 	min-height: 35px;
 }
 .wpallexport-plugin .wpallexport-preview-preload {
-	background-image: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/loading-step-2.gif");
+	background-image: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/loading-step-2.gif");
 	background-repeat: no-repeat;	
 	background-position: 50% 20px;
 	height: 80px;
 }
 .wpallexport-plugin .back{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/back.png") no-repeat scroll 8% 50% #e4e6e6;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/back.png") no-repeat scroll 8% 50% #e4e6e6;
 	color: #777;
 	display: inline-block;
 	font-size: 14px;
@@ -597,18 +597,18 @@
 	height: 40px;
 	line-height: 39px;
 	/*margin-left: 10px;*/
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/continue.png') no-repeat 93% 50% #425f9a;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/continue.png') no-repeat 93% 50% #425f9a;
 	border: none;
 }
 .wpallexport-plugin .wpallexport-large-button:hover{
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/continue.png') no-repeat 93% 50% #425f9a;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/continue.png') no-repeat 93% 50% #425f9a;
 	border: none;
 	box-shadow: none;
 }
 
 /*@+ header */
 .wpallexport-plugin .wpallexport-logo{
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/logo.png');
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/logo.png');
 	width: 60px;
 	height: 53px;
 	float: left;
@@ -649,7 +649,7 @@
 	color: #777;
 	float: right;
 	text-decoration: none;
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/support.png') 33px 12px no-repeat #fff;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/support.png') 33px 12px no-repeat #fff;
 	display: block;
 	text-align: center;	
 	border: 1px solid #ddd;
@@ -675,22 +675,22 @@
 	height: 76px;
 }
 .wpallexport-plugin .wpallexport-step-1 .pmxi_progress{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_1_bar.png") no-repeat scroll center center / contain #f1f2f2;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_1_bar.png") no-repeat scroll center center / contain #f1f2f2;
 }
 .wpallexport-plugin .wpallexport-step-2 .pmxi_progress{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_2_bar.png") no-repeat scroll center center / contain #f1f2f2;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_2_bar.png") no-repeat scroll center center / contain #f1f2f2;
 }
 .wpallexport-plugin .wpallexport-step-3 .pmxi_progress{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_3_bar.png") no-repeat scroll center center / contain #f1f2f2;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_3_bar.png") no-repeat scroll center center / contain #f1f2f2;
 }
 .wpallexport-plugin .wpallexport-step-4 .pmxi_progress{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_4_bar.png") no-repeat scroll center center / contain #f1f2f2;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_4_bar.png") no-repeat scroll center center / contain #f1f2f2;
 }
 .wpallexport-plugin .wpallexport-step-5 .pmxi_progress{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_5_bar.png") no-repeat scroll center center / contain #f1f2f2;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_5_bar.png") no-repeat scroll center center / contain #f1f2f2;
 }
 .wpallexport-plugin .wpallexport-step-6 .pmxi_progress{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_6_bar.png") no-repeat scroll center center / contain #f1f2f2;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/step_6_bar.png") no-repeat scroll center center / contain #f1f2f2;
 }
 
 .wpallexport-plugin .wpallexport-file-upload-result{
@@ -710,18 +710,18 @@
 		height: 31px;	
 	}
 	.wpallexport-plugin .wpallexport-file-upload-result[rel=upload_type] h2{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/cloud.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/cloud.png') no-repeat;
 		padding-left: 45px !important;
 	}
 	.wpallexport-plugin .wpallexport-file-upload-result[rel=url_type] h2{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/cloud_url.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/cloud_url.png') no-repeat;
 		padding-left: 45px !important;
 		font-size: 14px;
 		line-height: 35px;
 		height: 35px;
 	}
 	.wpallexport-plugin .wpallexport-file-upload-result[rel=file_type] h2{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/use_existing_green.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/use_existing_green.png') no-repeat;
 		padding-left: 45px !important;
 		height: 35px;
 	}
@@ -775,7 +775,7 @@
 /*@+*/
 
 .wpallexport-plugin .wpallexport-collapsed .wpallexport-collapsed-header{	
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/collapser.png') no-repeat 98% 0;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/collapser.png') no-repeat 98% 0;
 	height: 30px;
 	padding-left: 30px;
 	cursor: pointer;
@@ -792,7 +792,7 @@
 		user-select: none;
 	}
 .wpallexport-plugin .wpallexport-collapsed.closed .wpallexport-collapsed-header{
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/collapser.png') no-repeat 98% -30px;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/collapser.png') no-repeat 98% -30px;
 }
 	.wpallexport-plugin .wpallexport-collapsed.closed .wpallexport-collapsed-header h3{
 		color:#777;
@@ -954,7 +954,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 .wpallexport-plugin .add-new-cat, 
 .wpallexport-plugin .add-new-custom, 
 .wpallexport-plugin .add-new-key{ 
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/add.png") no-repeat 0px 5px;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/add.png") no-repeat 0px 5px;
 	font-size: 12px;
 	width:100px;
 	height:25px;
@@ -968,7 +968,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 }
 
 .wpallexport-plugin .remove-ico{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/trash.png") no-repeat;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/trash.png") no-repeat;
 	top: 5px;
 	right: 0;
 	position: absolute;
@@ -976,7 +976,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	height: 22px;
 }
 .wpallexport-plugin #columns .remove-field{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/remove.png") no-repeat;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/remove.png") no-repeat;
 	top: -5px;
 	right: -11px;
 	position: absolute;
@@ -994,7 +994,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	position: relative;
 }
 	.wpallexport-plugin .action.remove a{
-		background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/trash.png") no-repeat scroll 0 0 transparent;
+		background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/trash.png") no-repeat scroll 0 0 transparent;
 		height: 22px;
 		position: absolute;
 		right: 20px;
@@ -1002,7 +1002,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 		width: 19px;
 	}
 .wpallexport-plugin .drag-element{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/drag.png") top right no-repeat;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/drag.png") top right no-repeat;
 	cursor: pointer;
 	padding-left: 25px;
 	background-position: 0px 1px;	
@@ -1211,7 +1211,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	font-size: 12px;
 }
 .wpallexport-plugin .wpallexport-created-by span{
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/soflyy-logo.png') no-repeat;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/soflyy-logo.png') no-repeat;
 	display: block;
 	float: right;
 	width: 72px;
@@ -1430,7 +1430,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	z-index: 0;
 	text-decoration: none;
 	color: #888;
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/select_files.png') no-repeat 0 2px;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/select_files.png') no-repeat 0 2px;
 	padding-left: 45px;
 }
 .wpallexport-plugin .wpallexport-progress{
@@ -1519,14 +1519,14 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 		height: 60px;
 	}
 	.wpallexport-plugin a.wpallexport-import-from.wpallexport-upload-type span.wpallexport-icon{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/upload_sprite.png') 0 -30px no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/upload_sprite.png') 0 -30px no-repeat;
 		width: 40px;
 		height: 30px;
 		top: 6px;
 		left: -10px;
 	}
 	.wpallexport-plugin a.wpallexport-import-from.wpallexport-upload-type.selected span.wpallexport-icon{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/upload_sprite.png') 0 0 no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/upload_sprite.png') 0 0 no-repeat;
 		width: 40px;
 		height: 30px;
 		top: 6px;
@@ -1801,7 +1801,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	margin-top: 20px;
 	padding: 5px;
 	width: 75% !important;
-	/*background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/url.png') 10px -42px no-repeat;*/
+	/*background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/url.png') 10px -42px no-repeat;*/
 	padding-left: 60px;
 	border: 1px solid #ddd;
 	border-radius: 4px;
@@ -1926,12 +1926,12 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 		width: 13px;
 	}
 	.wpallexport-plugin .action_buttons #prev_element{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/left_btn.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/left_btn.png') no-repeat;
 		margin-left: 15px; 
 		float: left;
 	}
 	.wpallexport-plugin .action_buttons #next_element{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/right_btn.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/right_btn.png') no-repeat;
 		margin-right: 15px; 
 		float: right;
 	}
@@ -1950,7 +1950,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	width: 50px;
 }
 .wpallexport-plugin #wp_all_export_add_rule{	
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/rule.png") no-repeat scroll 10px 10px #40acad;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/rule.png") no-repeat scroll 10px 10px #40acad;
 	border: 1px solid #3a9c9d;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -1968,7 +1968,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	min-width: 60px;
 }
 .wpallexport-plugin #wp_all_export_apply_filters{	
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/rule.png") no-repeat scroll 10px 10px #40acad;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/rule.png") no-repeat scroll 10px 10px #40acad;
 	border: 1px solid #3a9c9d;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -2023,7 +2023,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	margin: 0;
 }
 .wpallexport-plugin .wp_all_export_filtering_rules .drag-element{
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/list.png') no-repeat 0 3px;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/list.png') no-repeat 0 3px;
 	padding-left: 30px;
 	height: 25px;
 	line-height: 21px;
@@ -2096,7 +2096,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 		text-align: left;
 	}
 .wpallexport-plugin .ajax-console .founded_records{	
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/elements.png') no-repeat;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/elements.png') no-repeat;
 	padding-left: 80px;	
 	margin-bottom: 0;	
 	margin-left: 40px;
@@ -2158,7 +2158,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	}
 	.wpallexport-plugin .wpallexport-change-root-element .tag_count{
 		float: right;
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/element_arrow.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/element_arrow.png') no-repeat;
 		display: inline-block;	
 		height: 15px;
 		padding-left: 20px;
@@ -2167,7 +2167,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 		line-height: 15px;
 	}
 	.wpallexport-plugin .wpallexport-change-root-element.selected .tag_count{
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/element_arrow.png') no-repeat 0px -15px;	
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/element_arrow.png') no-repeat 0px -15px;	
 	}
 .wpallexport-plugin .import_information{
 	border-top: 1px solid #ddd;
@@ -2177,7 +2177,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	.wpallexport-plugin .import_information h3{
 		text-align: center;
 		color:#777;
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/elements_notify.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/elements_notify.png') no-repeat;
 		padding-left: 60px;
 		height: 50px;
 		display: inline-block;
@@ -2332,7 +2332,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	margin-top: 20px;
 }
 .wpallexport-plugin .wp_all_export_preloader{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/preloader.png");
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/preloader.png");
 	width: 80px;
 	height: 10px;
 	margin: 20px auto;	
@@ -2342,7 +2342,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	float: left;
 }
 .wpallexport-plugin .wp_all_export_filter_preloader{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/preloader.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/preloader.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 	margin-top: 50px;
 	height: 16px;
 	line-height: 16px;
@@ -2352,7 +2352,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	float: right;
 }
 .wpallexport-plugin .wp_all_export_functions_preloader{
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/preloader.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/preloader.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 	margin-top: 6px;
 	margin-left: 6px;
 	height: 16px;
@@ -2671,7 +2671,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	position: absolute;
 	right: 10px;
 	top: 30%;*/
-	/*background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ico-remove.png') no-repeat;*/
+	/*background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ico-remove.png') no-repeat;*/
 	margin: 0 auto;
 }
 .wpallexport-plugin .wpallexport-cf-options{
@@ -2757,7 +2757,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	position: absolute;
 	top: 18px;
 	right: -1px;
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/right_btn.png') no-repeat 95% 8px #40acad;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/right_btn.png') no-repeat 95% 8px #40acad;
 	padding-right: 30px;
 	cursor: pointer;
 	border: none;
@@ -2794,7 +2794,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 		}
 		.wpallexport-plugin .wp-pointer-content .wp-pointer-buttons a.close,
 		.wpallexport-plugin .wpallexport-pointer-content .wp-pointer-buttons a.close{
-			background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/remove.png') no-repeat 10px 10px #e4e6e6;
+			background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/remove.png') no-repeat 10px 10px #e4e6e6;
 			padding: 10px 15px 10px 30px;
 			color: #777;
 			border-radius: 4px;
@@ -2847,7 +2847,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 }
 	.wpallexport-plugin .wpallexport-step-5 .wpallexport-section .wpallexport-collapsed-content p{
 		color: #777;
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/logo_small.png') no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/logo_small.png') no-repeat;
 		padding-left: 35px;
 		min-height: 26px;
 		line-height: 28px;
@@ -2884,14 +2884,14 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 }*/
 
 .wpallexport-plugin .wpallexport-ready-to-go{
-	/*background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/elements.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0) !important;*/
+	/*background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/elements.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0) !important;*/
 	/*float: left;*/
 	/*margin-left: 40px;*/
 	/*margin-top: 25px;*/
 	/*padding-left: 80px;*/
 	/*text-align: left;*/
 
-	background: rgba(0, 0, 0, 0) url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/elements.png") no-repeat scroll 0 0 !important;
+	background: rgba(0, 0, 0, 0) url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/elements.png") no-repeat scroll 0 0 !important;
 	height: 63px;
 	margin-bottom: 20px;
 	margin-left: 40px;
@@ -2913,7 +2913,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 		font-size:18px;
 	}
 	.wpallexport-plugin .nothing_to_export{
-		background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/exclamation.png") no-repeat scroll 5px 5px rgba(0, 0, 0, 0) !important;
+		background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/exclamation.png") no-repeat scroll 5px 5px rgba(0, 0, 0, 0) !important;
 	}
 .wpallexport-plugin .wpallexport-is-continue{
 	text-align: left; 
@@ -3047,7 +3047,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	}
 	
 	.wpallexport-plugin #export_finished .export_finished_icon{
-		/*background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/export_finished.png') no-repeat center center;*/
+		/*background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/export_finished.png') no-repeat center center;*/
 		width: 100%;
 		height: 255px;
 		margin: 40px 0;
@@ -3121,12 +3121,12 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 *-------------------------------------------------------------------------*/
 
 .wpallexport-plugin .info_ico{
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/info.png') 0 50% no-repeat;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/info.png') 0 50% no-repeat;
 	padding: 10px 10px 10px 40px;
 	color: #777;
 }
 .wpallexport-plugin .drag_an_element_ico{
-	background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/drag.png') 0 50% no-repeat;
+	background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/drag.png') 0 50% no-repeat;
 	padding: 10px 10px 10px 40px;
 	color: #777;
 }
@@ -3201,13 +3201,13 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	.wpallexport-plugin .tag .navigation .previous_element,
 	#post-preview .navigation .previous_element{
 		float: left;
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/left_btn.png') 5% 0 no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/left_btn.png') 5% 0 no-repeat;
 		margin-top: 10px;
 	}
 	.wpallexport-plugin .tag .navigation .next_element,
 	#post-preview .navigation .next_element{
 		float: right;
-		background: url('http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/right_btn.png') 95% 0 no-repeat;
+		background: url('https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/right_btn.png') 95% 0 no-repeat;
 		margin-top: 10px;
 	}
 
@@ -3393,13 +3393,13 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	white-space: nowrap;
 }
 .wpallexport-plugin table.widefat th.ASC a {
-	background-image: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/screen-options-right-up.gif");
+	background-image: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/screen-options-right-up.gif");
 	background-repeat: no-repeat;
 	background-position: right center;
 	padding-right: 19px;
 }
 .wpallexport-plugin table.widefat th.DESC a {
-	background-image: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/screen-options-right.gif");
+	background-image: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/screen-options-right.gif");
 	background-repeat: no-repeat;
 	background-position: right center;
 	padding-right: 19px;
@@ -3512,7 +3512,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 	width: 85px;
 	left: 20px;
 	bottom: 14px;
-	background: url("http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/remove.png") no-repeat scroll 10px 10px #e4e6e6;
+	background: url("https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/remove.png") no-repeat scroll 10px 10px #e4e6e6;
 	color: #777 !important;
 	padding: 9px 25px 9px 30px;
 }
@@ -3889,7 +3889,7 @@ a.wpallexport-import-to-format span.wpallexport-import-to-title {
 }
 
 .wpallexport-plugin .wpallimport-notify-wrapper .found_records.terminated, .wpallexport-plugin .found_records.terminated {
-	background: url(http://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/exclamation.png) no-repeat !important;
+	background: url(https://pjliard.github.io/pierrejeanliard/wp-content/plugins/wp-all-export/static/img/ui_4.0/exclamation.png) no-repeat !important;
 }
 
 .wpallexport-plugin .wpallexport-notify-wrapper .found_records {
